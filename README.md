@@ -3,7 +3,7 @@
 ### This is heavily WIP and I just threw it together to try out Topaz!
 > aka - not production ready, just for your own fun.
 
-__
+___
 
 A script to setup FFXI Project Topaz on Ubuntu 18.04
 
