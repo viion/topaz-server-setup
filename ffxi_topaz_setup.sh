@@ -5,7 +5,6 @@ MYSQL_DEFAULT_PASSWORD=test
 
 sudo apt update -y
 sudo apt dist-upgrade -y
-
 sudo apt-get autoremove -y
 sudo apt-get autoclean -y
 
@@ -15,7 +14,6 @@ echo "mysql-server mysql-server/root_password_again password $MYSQL_DEFAULT_PASS
 
 # required dependencies
 sudo apt-get install zlib1g-dev libssl-dev -y
-sudo apt-get install -y
 sudo apt-get install mariadb-server libmariadb-dev-compat -y
 sudo apt-get install libluajit-5.1-dev libzmq3-dev autoconf pkg-config -y
 
